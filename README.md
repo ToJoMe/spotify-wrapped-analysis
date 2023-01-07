@@ -19,7 +19,7 @@ The data is sent to you in several json files and has the following columns:
 
 
 ### Data-Preparation
-The Juypter-Notebook "Spotify-Data-Extended-Project.ipynb" will show the steps to bring the data in shape to work with.
+The Juypter-Notebook "Spotify-Data-Extended-Preparation.ipynb" will show the steps to bring the data in shape to work with.
 
 <ins>Steps included:</ins>
 - combine jsons to one dataframe
