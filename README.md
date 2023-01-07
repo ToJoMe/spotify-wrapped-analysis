@@ -8,7 +8,7 @@ The features gives some insights in your personal listening habits, but it is ra
 ## General info
 To get started with the project, you first need your streaming data. The data for this project can be requested directly from Spotify and will be sent to the user after about a period of 1-3 weeks. The Advanced streaming history should be requested for the project, as it also includes streaming data from previous years.
 
-Link to request data:<br>
+<ins>Link to request data:</ins><br>
 https://www.spotify.com/de/account/privacy/
 
 The data is sent to you in several json files and has the following columns:
@@ -34,7 +34,7 @@ The output of the Data-Preparation-Process will be a cleaned csv-file to work wi
 Since the data is now in the appropriate format with additional information, it can be visualized with a suitable software or packages.<br>
 I used Tableau to visualize my personal music streaming data from Spotify in a dashboard style.
 
-Link to Visulization:<br>
+<ins>Link to Visulization:</ins><br>
 https://public.tableau.com/app/profile/tobias3760/viz/Spotify-Wrapped/Spotify-Wrapped
 
 
