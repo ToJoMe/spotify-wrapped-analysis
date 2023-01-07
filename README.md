@@ -28,7 +28,7 @@ The Juypter-Notebook "Spotify-Data-Extended-Preparation.ipynb" will show the ste
 - calls to Spotify-API to get additional data like genres to your data
 - formatting of data
 
-Additional info:<br>
+<ins>Additional info:</ins><br>
 - Spotify-API-Dokumentation: https://developer.spotify.com/console/
 - Creation of Developer-Account: https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b
 
