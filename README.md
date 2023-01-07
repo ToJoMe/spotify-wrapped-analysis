@@ -18,10 +18,11 @@ The data is sent to you in several json files and has the following columns:
 <img width="625" alt="image" src="https://user-images.githubusercontent.com/84801791/211161752-eca8102f-d841-4cda-9f0a-37e233fbd054.png">
 
 
-Data-Preparation:
+**Data-Preparation:**
+<br>
 The Juypter-Notebook "Spotify-Data-Extended-Project.ipynb" will show the steps to bring the data in shape to work with.
 
-Steps included:
+<ins>Steps included:</ins>
 - combine jsons to one dataframe
 - separate music streaming history and podcast streaming history
 - extend dataframe with additional infos
