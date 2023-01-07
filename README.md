@@ -6,7 +6,7 @@ Each year since 2016, Spotify has released a "Wrapped" for each user, a feature 
 The features gives some insights in your personal listening habits, but it is rather on the superficial side. The project is therefore intended to provide a deeper insight into personal listening behavior on Spotify. Based on the membership duration on Spotify, the listening behavior of the past years can also be analyzed or compared to the previous years.
 
 ## General info
-To get started with the project, you first need your streaming data. The data for this project can be requested directly from Spotify and will be sent to the user after about a period of 1 -3 weeks. The Advanced streaming history should be requested for the project, as it also includes streaming data from previous years.
+To get started with the project, you first need your streaming data. The data for this project can be requested directly from Spotify and will be sent to the user after about a period of 1-3 weeks. The Advanced streaming history should be requested for the project, as it also includes streaming data from previous years.
 
 Link to request data:
 https://www.spotify.com/de/account/privacy/
