@@ -31,8 +31,8 @@ The Juypter-Notebook "Spotify-Data-Extended-Project.ipynb" will show the steps t
 The output of the Data-Preparation-Process will be a cleaned csv-file to work with.
 
 ## Visualization
-Since the data is now in the appropriate format with additional information, it can be visualized with a suitable software or packages.
-I have visualized my personal music streaming data from Spotify with Tableau in form of a dashboard.
+Since the data is now in the appropriate format with additional information, it can be visualized with a suitable software or packages.<br>
+I used Tableau to visualize my personal music streaming data from Spotify in a dashboard style.
 
 Link to Visulization:
 https://public.tableau.com/app/profile/tobias3760/viz/Spotify-Wrapped/Spotify-Wrapped
